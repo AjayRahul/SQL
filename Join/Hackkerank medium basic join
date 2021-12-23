@@ -1,3 +1,5 @@
+
+
 /* these are the columns we want to output */
 select c.hacker_id, h.name ,count(c.hacker_id) as c_count
 
